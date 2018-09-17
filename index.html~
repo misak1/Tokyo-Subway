@@ -1,3 +1,5 @@
+<!doctype html>
+ 
 <html>
   <head>
     <meta charset="utf-8" />
@@ -6,9 +8,12 @@
     
     <link href="style.css" rel="stylesheet">
 
-    <script src="./js/three.js"></script>
-    <script src="./js/OrbitControls.js"></script>
-    <script src="./js/dat.GUI.js"></script>
+<!-- three.js r75 -->
+<script src="//jsrun.it/assets/e/0/j/3/e0j3w"></script>
+<!-- OrbitControls.js -->s
+<script src="http://jsrun.it/assets/7/N/g/O/7NgOx"></script>
+<!-- dat.GUI.js -->
+<script src="http://jsrun.it/assets/q/S/i/g/qSigr"></script>
 
   </head>
   <body>
